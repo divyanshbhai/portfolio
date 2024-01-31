@@ -46,7 +46,8 @@ This project is a portfolio website created as part of my college minor project.
 - `assets/img/`: Directory containing project images.
 
 ## Live Demo
-Visit the live demo of the portfolio: [Your Portfolio Live Demo](https://your-portfolio-live-demo-url)
+Visit the live demo of the portfolio: [Your Portfolio Live Demo](https://divyanshbhai.github.io/portfolio/)
+
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
